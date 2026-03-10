@@ -1,2 +1,2 @@
 # esam-math
-\두번째로 뭔가 만들어서 올려가지고 이상한게 조금 많긴 한데 일단 정상적인 학원 홈페이지 입니다.
+a normal web for a math academy
